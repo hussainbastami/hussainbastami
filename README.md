@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussain Bastami
-- 👀 I’m interested in web designing and graphic designing(also 🍕 and 🎵)
-- 🌱 I’m currently learning android and surfing in the programming world
+- 👀 I’m interested in web designing and graphic designing(also 🎵)
+- 🌱 I’m currently learning ML and surfing in the programming world
 - 💞️ I’m looking to collaborate on web designers
 - You Can find me here : hussainbastamia@gmail.com
 
